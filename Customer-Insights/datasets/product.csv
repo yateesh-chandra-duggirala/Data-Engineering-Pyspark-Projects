@@ -1,0 +1,82 @@
+product_id,product_name,category,brand,price
+1,Wireless Mouse,Electronics,Logitech,25.99
+2,Laptop,Electronics,Dell,799.99
+3,Smartphone,Electronics,Apple,999.99
+4,Headphones,Electronics,Sony,199.99
+5,Tablet,Electronics,Samsung,299.99
+6,Smartwatch,Electronics,Apple,399.99
+7,Bluetooth Speaker,Electronics,JBL,59.99
+8,External Hard Drive,Electronics,Seagate,89.99
+9,Digital Camera,Electronics,Canon,499.99
+10,Gaming Console,Electronics,Sony,499.99
+11,Television,Electronics,Samsung,699.99
+12,Printer,Electronics,HP,129.99
+13,Router,Electronics,Netgear,89.99
+14,Monitor,Electronics,Dell,149.99
+15,Keyboard,Electronics,Logitech,49.99
+16,Fitness Tracker,Electronics,Fitbit,99.99
+17,Smart Home Assistant,Electronics,Google,129.99
+18,Coffee Maker,Home Appliances,Keurig,89.99
+19,Blender,Home Appliances,Ninja,69.99
+20,Microwave Oven,Home Appliances,Panasonic,129.99
+21,Air Fryer,Home Appliances,Philips,149.99
+22,Refrigerator,Home Appliances,LG,899.99
+23,Washing Machine,Home Appliances,Whirlpool,649.99
+24,Vacuum Cleaner,Home Appliances,Dyson,399.99
+25,Dishwasher,Home Appliances,Bosch,699.99
+26,Electric Kettle,Home Appliances,Hamilton Beach,39.99
+27,Slow Cooker,Home Appliances,Crock-Pot,59.99
+28,Toaster,Home Appliances,Breville,49.99
+29,Hair Dryer,Personal Care,Conair,29.99
+30,Electric Toothbrush,Personal Care,Oral-B,99.99
+31,Shaver,Personal Care,Philips,49.99
+32,Straightening Iron,Personal Care,GHD,199.99
+33,Facial Steamer,Personal Care,Panasonic,79.99
+34,Massage Gun,Personal Care,Theragun,299.99
+35,Air Purifier,Home Appliances,Honeywell,199.99
+36,Space Heater,Home Appliances,DeLonghi,129.99
+37,Ceiling Fan,Home Appliances,Hunter,199.99
+38,Electric Blanket,Home Appliances,Sunbeam,79.99
+39,Humidifier,Home Appliances,Vicks,49.99
+40,Iron,Home Appliances,Rowenta,59.99
+41,Dehumidifier,Home Appliances,Frigidaire,219.99
+42,Lawn Mower,Outdoor Equipment,Honda,299.99
+43,Grill,Outdoor Equipment,Weber,499.99
+44,Chainsaw,Outdoor Equipment,Stihl,299.99
+45,Leaf Blower,Outdoor Equipment,Black+Decker,79.99
+46,Drill,Tools,Dewalt,149.99
+47,Hammer,Tools,Stanley,19.99
+48,Screwdriver Set,Tools,Craftsman,29.99
+49,Toolbox,Tools,Milwaukee,59.99
+50,Wrench Set,Tools,Kobalt,39.99
+51,Electric Sander,Tools,Bosch,99.99
+52,Jigsaw,Tools,Skil,79.99
+53,Circular Saw,Tools,Black+Decker,89.99
+54,Workbench,Tools,Gladiator,199.99
+55,Air Compressor,Tools,Porter-Cable,129.99
+56,Garden Hose,Garden,Gilmour,29.99
+57,Pruning Shears,Garden,Fiskars,19.99
+58,Garden Rake,Garden,Ames,24.99
+59,Shovel,Garden,True Temper,34.99
+60,Wheelbarrow,Garden,Jackson,89.99
+61,Garden Gloves,Garden,Atlas,9.99
+62,Watering Can,Garden,Bloem,14.99
+63,Plant Pots,Garden,Costa Farms,39.99
+64,Outdoor Lights,Garden,Hampton Bay,49.99
+65,Patio Furniture,Garden,Mainstays,299.99
+66,Grill Cover,Outdoor Equipment,Classic Accessories,29.99
+67,Tent,Outdoor Equipment,Coleman,99.99
+68,Sleeping Bag,Outdoor Equipment,Teton Sports,59.99
+69,Camping Stove,Outdoor Equipment,Camp Chef,129.99
+70,Flashlight,Outdoor Equipment,Maglite,29.99
+71,Backpack,Outdoor Equipment,Osprey,149.99
+72,Water Bottle,Outdoor Equipment,Nalgene,14.99
+73,Hiking Boots,Outdoor Equipment,Merrell,119.99
+74,Portable Cooler,Outdoor Equipment,Yeti,249.99
+75,Picnic Basket,Outdoor Equipment,Picnic Time,69.99
+76,Bicycle,Sports,Schwinn,399.99
+77,Yoga Mat,Sports,Gaiam,39.99
+78,Tennis Racket,Sports,Wilson,129.99
+79,Football,Sports,Nike,29.99
+80,Basketball,Sports,Spalding,49.99
+81,Treadmill,Sports,NordicTrack,799.99
