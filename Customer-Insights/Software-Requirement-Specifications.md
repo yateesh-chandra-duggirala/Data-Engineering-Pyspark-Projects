@@ -1,11 +1,11 @@
-Project Idea: Comprehensive Customer Insights
+# Comprehensive Customer Insights
 
-Objective: 
+## Objective: 
 Create a comprehensive customer insights table by joining multiple real-time datasets to analyze customer behavior, transactions, and demographics.
 
-Dataset Schema:
+## Dataset Schema:
 
-1. Customer Information :
+### 1. Customer Information :
 	CustomerID
 	FirstName
 	LastName
@@ -18,7 +18,7 @@ Dataset Schema:
 	DateOfBirth
 	Gender
 
-2. Transactions :
+### 2. Transactions :
 	TransactionID
 	CustomerID
 	TransactionDate
@@ -26,14 +26,14 @@ Dataset Schema:
 	Quantity
 	Price
 
-3. Product Information :
+### 3. Product Information :
 	ProductID
 	ProductName
 	Category
 	Brand 
 	Price 
 
-4. Customer Feedback:
+### 4. Customer Feedback:
 	ReviewID
 	CustomerID
 	ProductID 
@@ -42,7 +42,7 @@ Dataset Schema:
 	ReviewText
 
 
-Requirements for the New Table :
+## Requirements for the New Table :
 
 - Table Name: CustomerInsights
 - Columns:
@@ -62,14 +62,14 @@ Requirements for the New Table :
 	AverageRating: Average rating given by the customer (from Customer Feedback, calculated field)
 	LastPurchaseDate: Date of the most recent transaction (from Transactions)
 
-Derived Columns:
+- Derived Columns:
 	TotalSpent: Sum of Quantity * Price from the Transactions dataset for each customer.
 	TotalTransactions: Count of TransactionID for each customer from the Transactions dataset.
 	AverageTransactionValue: TotalSpent / TotalTransactions.
 	FavoriteCategory: Mode of Category from the joined Transactions and Product Information datasets.
 	AverageRating: Average of Rating from the Customer Feedback dataset for each customer.
 
-Steps to Implement the Project:
+## Steps to Implement the Project:
 
 1. Load the Datasets:
 Load the Customer Information, Transactions, Product Information, and Customer Feedback datasets into separate tables.
@@ -85,6 +85,6 @@ Calculate the TotalSpent, TotalTransactions, AverageTransactionValue, FavoriteCa
 4. Create the Final Table:
 Create the CustomerInsights table with the required columns and insert the calculated data.
 
-Verification and Validation:
+5. Verification and Validation:
 - Verify the data for correctness and consistency.
 - Validate the insights by cross-checking with the original data.
